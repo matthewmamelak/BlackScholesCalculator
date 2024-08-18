@@ -1,0 +1,9 @@
+[theme]
+base="dark"
+primaryColor="#1E90FF"  # Cool blue for buttons and highlights
+backgroundColor="#4f4d4d"  # Light black (charcoal) background
+secondaryBackgroundColor="#2C2C2C"  # Darker charcoal for sidebars
+textColor="#E0E0E0"  # Light grey for text
+font="sans serif"  # Font choice
+fontColor="#E0E0E0"  # Light grey for text
+accentColor="#1E90FF"  # Cool blue for buttons and highlights
